@@ -1,5 +1,5 @@
 ---
-layout: life
+layout: post
 title: test comment
 category: “测试”
 date: 2015-08-05
