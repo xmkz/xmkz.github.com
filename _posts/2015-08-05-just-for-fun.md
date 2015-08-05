@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just For Fun
+title: 还在学习怎么发布日志呢
 category: “随意一丢”
 date: 2015-08-05
 duoshuo: true
@@ -8,9 +8,11 @@ tags : [Markdown,有序列表]
 ---
 
 
-#研究发现这个东西真的要用Markdown来写
+##研究发现这个东西真的要用Markdown来写
 
-##有序列表貌似也不错
+![本地图片该怎么链接啊](/res/img/icon.jpg)
+
+###有序列表貌似也不错
 1. 文本1
 2. 文本2
 3. 文本3
