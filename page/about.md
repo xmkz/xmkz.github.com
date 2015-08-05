@@ -32,9 +32,9 @@ blockquote p {
 > 网&nbsp;&nbsp;名: VitaminZou   
 > E-mail: <a href="mailto:xiaomikezhan@gmail.com">xiaomikezhan@gmail.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:781227641@qq.com">781227641@qq.com</a><br />
-> 主&nbsp;&nbsp;页: <a href="http://www.xiaomikezhan123.tk/">小米客栈123(http://www.xiaomikezhan123.tk/)</a>  
-> 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8(http://weibo.com/xmkz8)</a>  
-> 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">小米客栈(http://xmkz.github.io/)</a>  
+> 主&nbsp;&nbsp;页: <a href="http://www.xiaomikezhan123.tk/">小米客栈(.tk)</a>  
+> 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8</a>  
+> 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">小米客栈(gh-pages)</a>  
 > ....
 
 ---
