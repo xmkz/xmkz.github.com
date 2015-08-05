@@ -4,7 +4,7 @@ title : "first commit"
 category : Jekyll
 duoshuo: true
 date : 2015-08-03
-tags : [Jekyll , Demo , Test , SyntaxHihglighter , pygments , Markdown]
+tags : [发布日志 , Demo , Test , SyntaxHihglighter , pygments , Markdown]
 SyntaxHihglighter: true
 shTheme: shThemeEclipse # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 
