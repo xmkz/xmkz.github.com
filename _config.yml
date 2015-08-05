@@ -22,7 +22,7 @@ blog:
     description: In love folly is always sweet                     # 博客描述
     title: VitaminZou                                         # 网页标题
     url: http://xmkz.github.io/                         # 博客地址
-    duoshuo: VitaminZou                                       # 多说ID 
+    duoshuo: xmkz                                       # 多说ID 
     tongji:              # 百度统计ID
     clickiTongJi: 					 # Clicki统计ID
     qiniu:                                               # 七牛云地址
