@@ -35,7 +35,6 @@ blockquote p {
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/">@xmkz</a>  
 > 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">xmkz</a>  
 > GitHub：[comtu](https://github.com/)  
-> CSDN: [comtu](http://my.csdn.net/)  
 > ....
 
 ---
