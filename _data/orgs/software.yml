@@ -1,7 +1,10 @@
 
-name: 软件
+name: Windows平台
 icon: fa fa-windows
 members:
-  - name: WinRAR
-    link: http://www.winrar.com.cn/
+  - name: 简易视频制作
+    link: http://spring-fragrance.mints.ne.jp/aviutl/aviutl_plus_20120619.zip
+
+  - name: 小巧视频播放器
+    link: http://file.splayer.org/SPlayerSetup.exe?SPlayerSetup2437_701266.exe
 

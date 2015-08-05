@@ -1,8 +1,7 @@
 
-name: 安卓
+name: 手机平台
 icon: fa fa-android
 members:
 
-  - name: Android SDK
-    link: http://developer.android.com/tools/sdk/tools-notes.html
-
+  - name: SIMロック解除
+    link: http://yukayuyuyu.blog.so-net.ne.jp/archive/c2305340740-1

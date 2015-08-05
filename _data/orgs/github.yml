@@ -1,11 +1,11 @@
 
-name: Github
+name: Gh-pages
 icon: fa fa-github-alt
 members:
-  - name: Comtu
+  - name: xmkz
     notnewblank: false
-    link: http://github.com/comtu
+    link: http://github.com/xmkz
 
-  - name: ComtuBlog
+  - name: VitaminZou
     notnewblank: true
-    link: http://comtu.github.io/
+    link: http://xmkz.github.io/
