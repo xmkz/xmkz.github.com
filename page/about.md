@@ -30,8 +30,9 @@ blockquote p {
 
 
 > 网&nbsp;&nbsp;名: VitaminZou   
-> E-mail: <a href="mailto:781227641@qq.com">781227641@qq.com</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:xiaomikezhan@gmail.com">xiaomikezhan@gmail.com</a>  
+> E-mail: <a href="mailto:xiaomikezhan@gmail.com">xiaomikezhan@gmail.com</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:781227641@qq.com">781227641@qq.com</a>
+> 主&nbsp;&nbsp;页: <a href="http://www.xiaomikezhan123.tk/">xmkz</a>  
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8</a>  
 > 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">xmkz</a>  
 > ....
@@ -63,7 +64,7 @@ blockquote p {
 ---
 
 
-- 以上文字来自[comtu的blog](http://comtu.github.io/)，我是如此喜欢这些早已经淡忘了的浅显质朴的文字，所以就贴在这了，感谢原作者。
+- 以上文字来自comtu的[blog](http://comtu.github.io/)，我是如此喜欢这些早已经淡忘了的浅显质朴的文字，所以就贴在这了，感谢原作者。
 
 
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}

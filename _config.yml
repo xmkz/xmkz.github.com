@@ -29,7 +29,7 @@ blog:
 author:
     name: VitaminZou                                          # 作者名称
     email: xiaomikezhan@gmail.com                                # 邮箱地址
-    weibo: http://weibo.com/                        # 微博地址
+    weibo: http://weibo.com/xmkz8                        # 微博地址
     github: https://github.com/                     # GitHub地址
     logo: /res/img/icon.jpg                              # logo地址
     douban:
