@@ -24,7 +24,7 @@ blog:
     url: http://xmkz.github.io/                         # 博客地址
     duoshuo: xmkz                                       # 多说ID 
     tongji: 5e8682c146ae03037a189238a877953b             # 百度统计ID
-    clickiTongJi: 51831					 # Clicki统计ID
+    clickiTongJi: 					 # Clicki统计ID
     qiniu:                                               # 七牛云地址
 author:
     name: VitaminZou                                          # 作者名称
