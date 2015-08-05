@@ -18,19 +18,19 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: 小米客栈                                          # 博客名称
-    description: In love folly is always sweet                     # 博客描述
-    title: VitaminZou                                         # 网页标题
-    url: http://xmkz.github.io/                         # 博客地址
-    duoshuo: xmkz                                       # 多说ID 
-    tongji:              # 百度统计ID
-    clickiTongJi: 					 # Clicki统计ID
+    name: comtu                                          # 博客名称
+    description: The time is passing                     # 博客描述
+    title: comtu                                         # 网页标题
+    url: http://comtu.github.io/                         # 博客地址
+    duoshuo: comtu                                       # 多说ID 
+    tongji: e0d9a75a7e53b54cd1e6649facd5906e             # 百度统计ID
+    clickiTongJi: 51831					 # Clicki统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name: VitaminZou                                          # 作者名称
-    email: xiaomikezhan@gmail.com                                # 邮箱地址
-    weibo: http://weibo.com/                        # 微博地址
-    github: https://github.com/                     # GitHub地址
+    name: comtu                                          # 作者名称
+    email: com.tu@139.com                                # 邮箱地址
+    weibo: http://weibo.com/comtu                        # 微博地址
+    github: https://github.com/comtu                     # GitHub地址
     logo: /res/img/icon.jpg                              # logo地址
     douban:
         name:                                            # 豆瓣地址名称
