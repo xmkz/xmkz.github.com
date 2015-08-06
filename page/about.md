@@ -29,7 +29,7 @@ blockquote p {
 
 <link rel="stylesheet" href="/res/css/page.css">
 <div>
-<div class="right"><img src="/res/img/bi.png" /></div>
+<div class="right"><img src="/res/img/bina.png" /></div>
 </div>
 
 > 网&nbsp;&nbsp;名: VitaminZou<br />
