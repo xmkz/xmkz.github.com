@@ -10,8 +10,12 @@
       <li><a href="{{ nav.href }}"{% if nav.newblank == true %}target="_blank"{% endif %}><i class="{{ nav.icon }}"></i>&nbsp;{{ nav.title }}</a></li>
     {% endfor%}
     </ul>
+  </nav>
 
-  </nav>  
+<div id="binary-map" align="center">
+<img src="/res/img/bi.png" />
+</div>
+ 
   <nav id="sub-nav">
     <a class="weibo " href="{{ site.author.weibo }}" title="新浪微博" target="_blank"><i class="fa fa-weibo"></i></a>
     <a class="github" href="{{ site.author.github }}" title="GitHub" target="_blank"><i class="fa fa-github fa-2x"></i></a>
