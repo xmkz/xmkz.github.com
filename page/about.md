@@ -36,7 +36,8 @@ blockquote p {
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8</a>  
 > 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">小米客栈(gh-pages)</a>  
 > ....
-
+<p>これは標準のサイズ</p>
+<p><font color="#0000ff">文字を青くしてみます</font></p>
 <img src="/res/img/bi.png" width="300" height="300" border="0" class="texttop" alt="portfolio more info tag">
 ---
 
