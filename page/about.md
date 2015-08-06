@@ -37,8 +37,11 @@ blockquote p {
 > 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">小米客栈(gh-pages)</a>  
 > ....
 <link rel="stylesheet" href="/res/css/page.css">
-<p><font color="#0000ff">文字を青くしてみます</font></p>
-<img src="/res/img/bi.png" width="300" height="300" border="0" class="texttop" alt="portfolio more info tag">
+<div>
+<div class="left">aaaaaaaaaaaa</div>
+<div class="right"><img src="/res/img/bi.png" /></div>
+</div>
+
 
 <p>图像 <img src="/res/img/bi.png" align="bottom"> 在文本中</p>
 ---
