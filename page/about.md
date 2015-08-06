@@ -40,6 +40,7 @@ blockquote p {
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8</a>  <br />
 > ....
 
+
 ---
 
 > **关于困难**: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15岁觉得游泳难,放弃游泳,到18岁遇到一个你喜欢的人约你去游泳,你只好说"我不会耶".18岁觉得英文难,放弃英文,28岁出现一个很棒但要会英文的工作,你只好说"我不会耶".打磨自己的过程是疼,但最终能塑造一个更好的自己.有些事情,当我们年轻的时候无法懂得,当我们懂得的时候已经不再年轻.
@@ -71,3 +72,5 @@ blockquote p {
 
 
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
+
+<script type="text/javascript" src="//rc.revolvermaps.com/0/0/4.js?i=2nmohk34s3l&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=30" async="async"></script>
