@@ -72,5 +72,3 @@ blockquote p {
 
 
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
-
-<script type="text/javascript" src="//rc.revolvermaps.com/0/0/4.js?i=2nmohk34s3l&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=30" async="async"></script>
