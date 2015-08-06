@@ -36,9 +36,9 @@ blockquote p {
 > 微&nbsp;&nbsp;博: <a href="http://weibo.com/xmkz8">@xmkz8</a>  
 > 博&nbsp;&nbsp;客: <a href="http://xmkz.github.io/">小米客栈(gh-pages)</a>  
 > ....
-<p>これは標準のサイズ</p>
+<link rel="stylesheet" href="/res/css/page.css">
 <p><font color="#0000ff">文字を青くしてみます</font></p>
-<img src="/res/img/bi.png" width="300" height="300" border="0" class="page.texttop" alt="portfolio more info tag">
+<img src="/res/img/bi.png" width="300" height="300" border="0" class="texttop" alt="portfolio more info tag">
 ---
 
 > **关于困难**: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15岁觉得游泳难,放弃游泳,到18岁遇到一个你喜欢的人约你去游泳,你只好说"我不会耶".18岁觉得英文难,放弃英文,28岁出现一个很棒但要会英文的工作,你只好说"我不会耶".打磨自己的过程是疼,但最终能塑造一个更好的自己.有些事情,当我们年轻的时候无法懂得,当我们懂得的时候已经不再年轻.
