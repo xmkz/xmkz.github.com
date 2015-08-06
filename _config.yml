@@ -20,7 +20,7 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 blog:
     name: 小米客栈                                          # 博客名称
     description: In love folly is always sweet                     # 博客描述
-    title: VitaminZou                                         # 网页标题
+    title: 小米客栈主页                                         # 网页标题
     url: http://xmkz.github.io/                         # 博客地址
     duoshuo: xmkz                                       # 多说ID 
     tongji: 5e8682c146ae03037a189238a877953b             # 百度统计ID

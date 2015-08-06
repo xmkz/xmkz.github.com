@@ -14,6 +14,8 @@ tags : [Markdown,无序列表，保持淡定]
 
 ![](http://www.wallpapermania.eu/images/lthumbs/2013-09/6039_Romantic-view-in-nature-beautiful-sunset.jpg) 
 
+<!-- more -->
+
 > 一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。       
         
 ##听说这个东西要用Markdown来写

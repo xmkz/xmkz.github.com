@@ -44,11 +44,6 @@ blockquote p {
 <script type="text/javascript" src="//rc.revolvermaps.com/0/0/4.js?i=2nmohk34s3l&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=30" async="async"></script>
 </div>
 
-<div id="log-per-visitor" align="center">
-<script type="text/javascript" src="http://100widgets.com/js_data.php?id=75"></script>
-<script type="text/javascript" src="http://100widgets.com/js_data.php?id=221"></script>
-</div>
-
 # 关于作者
 
 <hr id="line"/>
