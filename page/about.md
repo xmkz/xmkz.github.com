@@ -30,7 +30,21 @@ blockquote p {
 
 ---
 
+<div id="visitors-per-day" align="center">
+<script type="text/javascript" src="//rc.revolvermaps.com/0/0/0.js?i=2cv58yipqf5&amp;d=3&amp;p=0&amp;b=1&amp;w=293&amp;g=3&amp;f=lucida_console&amp;fs=14&amp;r=0&amp;c0=7f8278&amp;c1=13ab2b&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script><br/>
+</div>
 
+---
+
+> **访问者地区分布**: <br />
+
+---
+
+<div id="map-world" align="center">
+<script type="text/javascript" src="//rc.revolvermaps.com/0/0/1.js?i=2ma4f1y5kgy&amp;s=350&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script><br/>
+
+<script type="text/javascript" src="//rc.revolvermaps.com/0/0/4.js?i=2nmohk34s3l&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=30" async="async"></script><br/>
+</div>
 
 # 关于作者
 
