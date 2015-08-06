@@ -41,6 +41,8 @@ blockquote p {
 ---
 
 <div id="map-world" align="center">
+<script type="text/javascript" src="//rc.revolvermaps.com/0/0/1.js?i=2ma4f1y5kgy&amp;s=350&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+
 <script type="text/javascript" src="//rc.revolvermaps.com/0/0/4.js?i=2nmohk34s3l&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=30" async="async"></script>
 </div>
 
