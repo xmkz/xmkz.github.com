@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<articles xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<article>
+	<title>生活  温暖如花</title>
+	<url>/blog/2015/08/10/first-write.html</url>
+	<date>2015-08-10</date>
+</article>
+
+<article>
+	<title>还在学习怎么发布日志呢</title>
+	<url>/blog/2015/08/05/just-for-fun.html</url>
+	<date>2015-08-05</date>
+</article>
+
+<article>
+	<title>作为随意写写的个人博客开博试试吧</title>
+	<url>/blog/2015/08/05/begin-blog.html</url>
+	<date>2015-08-05</date>
+</article>
+
+</articles>

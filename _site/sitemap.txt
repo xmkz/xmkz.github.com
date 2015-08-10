@@ -1,0 +1,16 @@
+
+http://xmkz.github.io//page/timing.html
+http://xmkz.github.io//page/tags.html
+http://xmkz.github.io//sitemap.txt
+http://xmkz.github.io//search.xml
+http://xmkz.github.io//page/resource.html
+http://xmkz.github.io//page/read.html
+http://xmkz.github.io//index.html
+http://xmkz.github.io//page/feed.xml
+http://xmkz.github.io//page/category.html
+http://xmkz.github.io//page/about.html
+http://xmkz.github.io//404.html
+
+http://xmkz.github.io//blog/2015/08/10/first-write.html
+http://xmkz.github.io//blog/2015/08/05/just-for-fun.html
+http://xmkz.github.io//blog/2015/08/05/begin-blog.html

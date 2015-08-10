@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS - 小米客栈</title>
+    <description>小米客栈 - In love folly is always sweet</description>
+    <link>http://xmkz.github.io/</link>
+    <atom:link href="http://xmkz.github.io//page/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 10 Aug 2015 13:19:39 +0900</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2015 13:19:39 +0900</lastBuildDate>
+    <generator>VitaminZou</generator>
+    
+      <item>
+        <title>生活  温暖如花</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;携一片绿叶，让心如花般充满淡淡的，静静的人生况味。生活中，不言弃，因为活着；不言苦，因为幸福；不言累，因为有阳光，有微笑，有温暖。没有感情，也许就没有疼痛；没有经历，也许就不懂珍惜；没有思念，也许就不知道深深的爱。走过岁月，才有阅尽尘事的从容和智慧，才有对生活深刻的理解，才有对世界崭新的感悟。执一颗恬淡的心，生活着，享受着!&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;　　有些事，想多了头疼，想通了心疼。能得到的，就努力；得不到的，就放弃；拥有的，要珍惜。属于自己的，不管几多波折几多磨砺，终归属于自己；不是自己的，尽管百般千求，也不属于自己。灾难给你痛苦的时候，其实也会给你常人所没有的。&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 10 Aug 2015 00:00:00 +0900</pubDate>
+        <link>http://xmkz.github.io//blog/2015/08/10/first-write.html</link>
+        <guid isPermaLink="true">http://xmkz.github.io//blog/2015/08/10/first-write.html</guid>
+        
+        <category>“随意一丢”</category>
+        
+      </item>
+    
+      <item>
+        <title>还在学习怎么发布日志呢</title>
+        <description>&lt;h2 id=&quot;markdown&quot;&gt;研究发现这个东西真的要用Markdown来写&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时 候。但是，聪明的，你告诉我，我们的日子为什么一去不复返呢？——是有人偷了他 们罢：那是谁？又藏在何处呢？是他们自己逃走了罢——如今又到了哪里呢？ 我不知道他们给了我多少日子，但我的手确乎是渐渐空虚了。在默默里算着，八千多日子已经从我手中溜去，像针尖上一滴水滴在大海里，我的日子滴在时间的流里，没有声音，也没有影子。我不禁头涔涔而泪潸潸了。&lt;br /&gt;
+去的尽管去了，来的尽管来着；去来的中间，又怎样地匆匆呢？早上我起来的时候，小屋里射进两三方斜斜的太阳。太阳他有脚啊，轻轻悄悄地挪移了；我也茫茫然跟着旋转。于是——洗手的时候，日子从水盆里过去；吃饭的时候，日子从饭碗里过去；默默时，便从凝然的双眼前过去。我觉察他去的匆匆了，伸出手遮挽时，他又从遮挽着的手边过去，天黑时，我躺在床上，他便伶伶俐俐地从我身上跨过，从我脚边飞去了。等我睁开眼和太阳再见，这算又溜走了一日。我掩着面叹息。但是新来的日子的影儿又开始在叹息里闪过了。&lt;br /&gt;
+　　在逃去如飞的日子里，在千门万户的世界里的我能做些什么呢？只有徘徊罢了，只有匆匆罢了；在八千多日的匆匆里，除徘徊外，又剩些什么呢？过去的日子如轻烟，被微风吹散了，如薄雾，被初阳蒸融了；我留着些什么痕迹呢？我何曾留着像游丝样的痕迹呢？我赤裸裸来到这世界，转眼间也将赤裸裸的回去罢？但不能平的，为什么偏要白白走这一遭啊？你聪明的，告诉我，我们的日子为什么一去不复返呢？&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/img/icon.jpg&quot; alt=&quot;本地图片该怎么链接啊&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;有序列表貌似也不错&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;文本1&lt;/li&gt;
+  &lt;li&gt;文本2&lt;/li&gt;
+  &lt;li&gt;文本3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function. Please don’t use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;一盏灯&lt;/em&gt;， 一片昏黄；&lt;strong&gt;一简书&lt;/strong&gt;， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。&lt;/p&gt;
+
+&lt;h2 id=&quot;editor&quot;&gt;Markdown 免费编辑器&lt;/h2&gt;
+
+&lt;p&gt;Windows 平台&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://markdownpad.com/&quot;&gt;MarkdownPad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://code52.org/DownmarkerWPF/&quot;&gt;MarkPad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Linux 平台&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://sourceforge.net/p/retext/home/ReText/&quot;&gt;ReText&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mac 平台&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mouapp.com/&quot;&gt;Mou&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在线编辑器&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://markable.in/&quot;&gt;Markable.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dillinger.io/&quot;&gt;Dillinger.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;浏览器插件&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/oknndfeeopgpibecfjljjfanledpbkog&quot;&gt;MaDe&lt;/a&gt; (Chrome)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;高级应用&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/2&quot;&gt;Sublime Text 2&lt;/a&gt; + &lt;a href=&quot;http://ttscoff.github.com/MarkdownEditing/&quot;&gt;MarkdownEditing&lt;/a&gt; / &lt;a href=&quot;http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/&quot;&gt;教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 +0900</pubDate>
+        <link>http://xmkz.github.io//blog/2015/08/05/just-for-fun.html</link>
+        <guid isPermaLink="true">http://xmkz.github.io//blog/2015/08/05/just-for-fun.html</guid>
+        
+        <category>“随意一丢”</category>
+        
+      </item>
+    
+      <item>
+        <title>作为随意写写的个人博客开博试试吧</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;链接和图片&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。…在缓急中体现节奏这里的缓急主要是从作者叙述的语调和语速而言的，急则如火山喷发，如飙风急雨、飞星走电，缓则如春风细雨，如山涧小溪。《匆匆》以一串排比开头，接之以四个阀句。形成一种急切之势，表达出作者迷茫、困惑和苦恼的心理状态。而第二段说“我不知道他们给了我多少日子，但我的手确乎是渐渐空虚了。”以平静甚至可以说是颓然的语调将第一段的快节奏降了下来，转入一种自我心理的陈述。第三段则延续第二段的抒写，继续细致的刻画笔者所感受到的时光易逝。&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.wallpapermania.eu/images/lthumbs/2013-09/6039_Romantic-view-in-nature-beautiful-sunset.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;www.baidu.com&quot;&gt;别动我，我真的是超链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;听说这个东西要用Markdown来写&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;无序列表貌似很好看&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;文本1&lt;/li&gt;
+  &lt;li&gt;文本2&lt;/li&gt;
+  &lt;li&gt;文本3&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 +0900</pubDate>
+        <link>http://xmkz.github.io//blog/2015/08/05/begin-blog.html</link>
+        <guid isPermaLink="true">http://xmkz.github.io//blog/2015/08/05/begin-blog.html</guid>
+        
+        <category>“随心一写”</category>
+        
+      </item>
+    
+  </channel>
+</rss>
